@@ -21,4 +21,5 @@
     <string name="hs_beacon_notification_channel_id">2</string>
     <string name="beacon_file_provider">com.helpscout.beacon.internal.ui.common.BeaconFileProvider</string>
     <string name="beacon_search_activity">com.helpscout.beacon.internal.ui.domain.search.BeaconSearchActivity</string>
+    <string name="hs_beacon_search">Search</string>
 </resources>
